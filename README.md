@@ -1,2 +1,2 @@
 # Employeemanegment
-it is a system which maneges employee data
+It handles employee data storage,provides imploye record mangement,id generater for employee,payroll management,and quick search functionality.It will help the user to keep track of employee and pay rolls
