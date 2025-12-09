@@ -1,3 +1,6 @@
-1112 cs secanderymaneger 40000  bunty ughd
-1113 Ao scretaryhead 500000  hania amir
-1114 Cs ceo 9e+08  Ali raza
+1112 ceo ai 543219    ali
+1113 Ai maneger 80000    mark zinger burger
+1114 cs head 1e+07  Huzaifa laghari
+1115 ai head 9000  nvidia
+1116 cs ai 8000  motigui
+1117 cs head 8000  motiguui
