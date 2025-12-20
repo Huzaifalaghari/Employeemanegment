@@ -1,6 +1,5 @@
-1112 ceo ai 543219    ali
-1113 Ai maneger 80000    mark zinger burger
-1114 cs head 1e+07  Huzaifa laghari
-1115 ai head 9000  nvidia
-1116 cs ai 8000  motigui
-1117 cs head 8000  motiguui
+1111 AI ceo 900000    Huzaifa
+1112 Ai head 80000    umar
+1113 cs head 70000    uzair
+1114 cs head 70000    papu
+1116 dhuzdhuz head 900000  osama bin ladi

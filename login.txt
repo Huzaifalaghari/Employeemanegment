@@ -1,1 +1,3 @@
-Muhmmad, 123!2, admin 
+Muhmmad, 123!2, admin
+Ali, 1234, maneger
+Huzaifa, 321, finance
